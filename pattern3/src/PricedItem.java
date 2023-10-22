@@ -1,0 +1,3 @@
+interface PricedItem {
+    double getPrice();
+}
